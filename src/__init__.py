@@ -1,1 +1,0 @@
-# MarketMind AI Core Package
