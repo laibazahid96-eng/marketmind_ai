@@ -1,6 +1,8 @@
 
 ## 🚀 Quickstart Guide
 
+https://marketmindai-hs4v4vygndtqumheeysaed.streamlit.app/
+
 ### 1. Prerequisites
 * Python 3.10+
 * OpenAI API Key (`sk-...`)
