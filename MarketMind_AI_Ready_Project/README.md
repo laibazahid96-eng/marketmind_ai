@@ -1,5 +1,7 @@
 # MarketMind AI
 
+https://marketmindai-eyycr4moarpnffyjwhy62p.streamlit.app/
+
 A clean Streamlit implementation of the MarketMind AI capstone: a bounded business-research agent with manual tool dispatch, evidence provenance, structured Pydantic validation, QC, cost tracking, and an explicit human approval gate.
 
 ## Run locally
